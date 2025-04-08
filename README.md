@@ -13,7 +13,6 @@
             <p>Your Trusted Partner for AC Rentals and Services</p>
         </div>
     </header>
-
     <nav>
         <div class="container">
             <ul>
