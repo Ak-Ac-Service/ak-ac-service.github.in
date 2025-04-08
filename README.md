@@ -22,7 +22,6 @@
             </ul>
         </div>
     </nav>
-
     <section id="services">
         <div class="container">
             <h2>Our Services</h2>
@@ -46,14 +45,12 @@
             </div>
         </div>
     </section>
-
     <section id="rentals">
         <div class="container">
             <h2>AC Rentals</h2>
             <p>We offer a variety of AC units for rent to suit your needs. Contact us for more details.</p>
         </div>
     </section>
-
     <section id="contact">
         <div class="container">
             <h2>Contact Us</h2>
@@ -65,7 +62,6 @@
             </ul>
         </div>
     </section>
-
     <footer>
         <div class="container">
             <p>&copy; 2025 Ak Ac Service. All rights reserved.</p>
