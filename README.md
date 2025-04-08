@@ -69,3 +69,66 @@
     </footer>
 </body>
 </html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+header {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+nav {
+    background: #444;
+    color: #fff;
+    padding: 10px 0;
+}
+nav ul {
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+nav ul li {
+    display: inline;
+    margin: 0 20px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+section {
+    padding: 20px 0;
+    border-bottom: 1px solid #ccc;
+}
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.services-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.service-item {
+    background: #f4f4f4;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    width: 45%;
+    box-sizing: border-box;
+}
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
